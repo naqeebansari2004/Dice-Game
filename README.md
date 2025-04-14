@@ -12,9 +12,8 @@ A simple and fun browser-based dice game built using HTML, CSS, and JavaScript. 
 
 ## 📸 Preview
 
-![Dice Game Screenshot](https://raw.githubusercontent.com/naqeebansari2004/Dice-Game/main/assets/screenshot.png)
+![Screenshot (26)](https://github.com/user-attachments/assets/1fa0bf1b-b270-447a-b0ac-7890df3e0ac7)
 
-> *If there's no screenshot yet, feel free to add one to your repo in an `assets/` folder and update the link above.*
 
 ## 🚀 Features
 
