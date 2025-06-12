@@ -1,5 +1,3 @@
----
-
 # 🎲 Dice Game
 
 A simple and engaging browser-based dice game built using HTML, CSS, and JavaScript. Two players take turns rolling a die, aiming to be the first to reach a total score of 100 points.
